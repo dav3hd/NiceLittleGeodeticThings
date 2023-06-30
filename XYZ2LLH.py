@@ -33,7 +33,4 @@ lam = math.atan2(Y,X)
 
 print("Lat: " +str(phi*180/math.pi) +"\tLon: " +str(lam*180/math.pi) +"\tHeight: "+ str(h))
 
-# chmod +x datei.py
-# cd /usr/local/bin/
-# sudo ln -s Pfad/zur/Datei.py Datei
 
